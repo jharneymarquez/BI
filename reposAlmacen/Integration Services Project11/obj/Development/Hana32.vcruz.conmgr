@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Hana32.vcruz"
+  DTS:DTSID="{297E05E8-7EC9-421D-A4DE-461AF0D6BF2F}"
+  DTS:CreationName="ADO.NET:System.Data.Odbc.OdbcConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=vcruz;Dsn=Hana32;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtyS5M5PAS0qfqmfQ/6XfhAAAAAACAAAAAAAQZgAAAAEAACAAAACu0eob8Azy5xwYSNiE2kORc0cUdurZ/i3r7OSEr4YgLAAAAAAOgAAAAAIAACAAAACvOEoBfQ4J3IYpFMSTqJlyuIYNyIX+RqXYoUwz7nzBVYAAAAA4f12FVC2J7asp0vUcEex+M5smZGSsGhZJ5vuclUfMkecAr0VG5RgCff2Ob3dLKFiV4s53bswYRrwu1kLBVQrUsgXHeXIw0C+HQ1bmrNHwJnd0j6++XVFdlrD/59pP/fld/VFLg00c9FvXib2oqu3f7/S+U9ExvuNyspB4LCieB0AAAABHe0fzGCkMw4N4WRLIoEtnUfCPN2LZzrvqzyoTyTuHzhC56mYfjIpk+w2S7LihQM65IxHAZe9SuU9wovxaYOtV</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
